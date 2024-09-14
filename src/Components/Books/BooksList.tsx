@@ -1,3 +1,12 @@
+import {
+  Card,
+  CardHeader,
+  CardFooter,
+  CardTitle,
+  CardDescription,
+  CardContent,
+} from "@/Components/ui/card";
+
 interface Books {
   id: number;
   title: string;
@@ -28,7 +37,26 @@ export default async function BooksList() {
 
   return (
     <main>
-      <div className="grid grid-col-3 gap-8">{books.map()}</div>;
+      <div className="grid grid-col-3 gap-8">
+        {books.map((book) => (
+          <Card key={book.id}>
+            <CardHeader>
+              <div>
+                <CardTitle>{book.title}</CardTitle>
+                <CardDescription>
+                  <p>{book.author}</p>
+                </CardDescription>
+              </div>
+            </CardHeader>
+            <CardContent>
+              <p>{book.status}</p>
+            </CardContent>
+            <CardFooter>
+              <p>{book.Volumes.map((volume) => volume.title)}</p>
+            </CardFooter>
+          </Card>
+        ))}
+      </div>
     </main>
   );
 }
