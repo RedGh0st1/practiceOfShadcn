@@ -1,5 +1,5 @@
 import "./App.css";
-import RouteProvider from "./RouteProvider";
+import RouteProvider from "./Providers/RouteProvider";
 function App() {
   return (
     <main className="app-container">

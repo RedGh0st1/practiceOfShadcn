@@ -1,3 +1,5 @@
-export default function Homepage({}: Props) {
-  return <div>Home</div>;
-}
+const Homepage: React.FC = () => {
+  return <div>MANGA TRACKER</div>;
+};
+
+export default Homepage;

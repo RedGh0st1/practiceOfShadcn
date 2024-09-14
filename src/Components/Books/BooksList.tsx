@@ -4,7 +4,7 @@ interface Books {
   author: string;
   illustrator: string;
   status: string;
-  volumes: [];
+  volumes: Volumes[];
 }
 interface Volumes {
   id: number;
@@ -16,9 +16,9 @@ interface Volumes {
   image_url: string;
 }
 interface Props {
-  books: Books{};
+  books: Books;
 }
 
 export default function BooksList({ books }: Props) {
-  return <div>BooksList</div>;
+  return <div>books</div>;
 }

@@ -1,10 +1,13 @@
 import BooksList from "../Components/Books/BooksList";
 
-type IndexProps = {};
+type Props = {
+  books: any;
+};
 
-export default function Index({}: IndexProps) {
+export default function Index() {
   return (
     <div>
+      Hello
       <BooksList />
     </div>
   );
