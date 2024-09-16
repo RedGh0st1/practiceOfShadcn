@@ -1,3 +1,4 @@
+import data from "../../data/db.json";
 import {
   Card,
   CardHeader,
@@ -25,37 +26,50 @@ interface Volumes {
   image_url: string;
 }
 
-// function
-async function getBooks(): Promise<Books[]> {
-  const res = await fetch("https://localhost:4000/books");
+export default function BooksList() {
+  const book = data as Books;
 
-  return res.json();
-}
-
-export default async function BooksList() {
-  const books = await getBooks();
+  console.log("This is book on line 34:", book);
+  if (!book) return <div>No book found</div>;
 
   return (
     <main>
-      <div className="grid grid-col-3 gap-8">
-        {books.map((book) => (
-          <Card key={book.id}>
-            <CardHeader>
-              <div>
-                <CardTitle>{book.title}</CardTitle>
-                <CardDescription>
-                  <p>{book.author}</p>
-                </CardDescription>
-              </div>
-            </CardHeader>
-            <CardContent>
-              <p>{book.status}</p>
-            </CardContent>
-            <CardFooter>
-              <p>{book.Volumes.map((volume) => volume.title)}</p>
-            </CardFooter>
-          </Card>
-        ))}
+      <p>BooksList</p>
+      <div className="grid grid-cols-3 gap-8">
+        <Card key={book.id}>
+          <CardHeader>
+            <CardTitle>{book.title}</CardTitle>
+            <CardDescription>
+              <p>Author: {book.author}</p>
+              <p>Illustrator: {book.illustrator}</p>
+            </CardDescription>
+          </CardHeader>
+          <CardContent>
+            <p>Status: {book.status}</p>
+            <h3>Volumes:</h3>
+            <ul>
+              {book.volumes && book.volumes.length > 0 ? (
+                book.volumes.map((volume) => (
+                  <li key={volume.id}>
+                    <p>
+                      Volume {volume.volume}: {volume.title}
+                    </p>
+                    <p>Chapters: {volume.chapters}</p>
+                    <p>
+                      Release Date:{" "}
+                      {new Date(volume.release_date).toLocaleDateString()}
+                    </p>
+                  </li>
+                ))
+              ) : (
+                <p>No volumes found</p>
+              )}
+            </ul>
+          </CardContent>
+          <CardFooter>
+            <p>Total Volumes: {book.volumes.length}</p>
+          </CardFooter>
+        </Card>
       </div>
     </main>
   );
