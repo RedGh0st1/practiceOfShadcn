@@ -1,107 +1,189 @@
 {
-  "title": "Solo Leveling",
-  "author": "Chugong",
-  "illustrator": "Dubu (REDICE Studio)",
-  "status": "season 1 Completed",
-  "volumes": [
+  "manga": [
     {
-      "id": 1,
-      "volume": 1,
-      "chapters": "1-20",
-      "release_date": "2018-03-04",
-      "title": "The Weak Hunter",
-      "description": "Sung Jin-Woo is known as the weakest hunter in a world full of monsters and dungeon raids, but everything changes when he gains a mysterious new ability.",
-      "image_url": "https://m.media-amazon.com/images/I/816hywlmu-L._SL1500_.jpg"
+      "title": "Solo Leveling",
+      "author": "Chugong",
+      "illustrator": "Dubu (REDICE Studio)",
+      "status": "season 1 Completed",
+      "volumes": [
+        {
+          "id": 1,
+          "volume": 1,
+          "chapters": "1-20",
+          "release_date": "2018-03-04",
+          "title": "The Weak Hunter",
+          "description": "Sung Jin-Woo is known as the weakest hunter in a world full of monsters and dungeon raids, but everything changes when he gains a mysterious new ability.",
+          "image_url": "https://m.media-amazon.com/images/I/816hywlmu-L._SL1500_.jpg"
+        },
+        {
+          "id": 2,
+          "volume": 2,
+          "chapters": "21-40",
+          "release_date": "2018-06-03",
+          "title": "E-Rank Hunter",
+          "description": "Jin-Woo begins his journey as a stronger hunter after gaining the ability to level up, but the road is filled with dangerous dungeons and treacherous monsters.",
+          "image_url": "https://m.media-amazon.com/images/I/81ZAC67DE1S._SL1500_.jpg"
+        },
+        {
+          "id": 3,
+          "volume": 3,
+          "chapters": "41-60",
+          "release_date": "2018-09-05",
+          "title": "The Mysterious Double Dungeon",
+          "description": "Jin-Woo discovers a terrifying secret dungeon that tests his abilities to the limit, as he faces challenges unlike any he's encountered before.",
+          "image_url": "https://m.media-amazon.com/images/I/71goH8p2ENL._SL1500_.jpg"
+        },
+        {
+          "id": 4,
+          "volume": 4,
+          "chapters": "61-80",
+          "release_date": "2018-12-02",
+          "title": "The Quest System",
+          "description": "With the help of his new leveling system, Jin-Woo takes on powerful enemies and begins to reveal the true nature of his powers.",
+          "image_url": "https://m.media-amazon.com/images/I/81shyf5cV9L._SL1500_.jpg"
+        },
+        {
+          "id": 5,
+          "volume": 5,
+          "chapters": "81-100",
+          "release_date": "2019-03-06",
+          "title": "A New Hunter",
+          "description": "As Jin-Woo's strength continues to grow, the world starts to take notice, but with greater power comes greater threats.",
+          "image_url": "https://m.media-amazon.com/images/I/81eln1SzG7L._SL1500_.jpg"
+        },
+        {
+          "id": 6,
+          "volume": 6,
+          "chapters": "101-120",
+          "release_date": "2023-21-03",
+          "title": "The Outerhaven",
+          "description": "Jinwoo continues to progress rapidly through the Demon’s 6 Castle, climbing toward the top floor with the help of a demon noble who has agreed to escort the intruder if it means not having to fight him herself! Preoccupied with his personal quest, Jinwoo is unaware of the escalating threat outside the dungeon. The ant magic beasts that laid waste to Jeju Island are looking to relocate, and if they reach the mainland, all of Korea could fall. Will the combined S-ranks of Japan and Korea be enough to quell the swarm―and will Jinwoo be joining them?!.",
+          "image_url": "https://m.media-amazon.com/images/I/81v0cDv9IfL._SL1500_.jpg"
+        },
+        {
+          "id": 7,
+          "volume": 7,
+          "chapters": "121-140",
+          "release_date": "2023-22-08",
+          "title": "The Ultimate Hunter",
+          "description": "The joint expedition between South Korea and Japan to the ant-infested Jeju Island is well underway, and the Korean team has successfully located the queen. Taking her out should finally spell the long-awaited closing of the S-rank gate. But little do they know that wings aren’t the only mutation the latest generation of ants has gone through― and having made short work of the Japanese hunters, the queen’s strongest soldier is now headed straight for them!",
+          "image_url": "https://m.media-amazon.com/images/I/51sgPH9I1oL._SY445_SX342_.jpg"
+        },
+        {
+          "id": 8,
+          "volume": 8,
+          "chapters": "141-160",
+          "release_date": "2024-23-01",
+          "title": "The Final Test",
+          "description": "After his victory on Jeju Island, the top guilds are all clamoring to recruit Jinwoo Sung, the strongest S-rank hunter and the hero of Korea―a far cry from the hapless E-rank hunter he used to be. As exciting as each new development is, however, Jinwoo’s eager to finally get some answers, so an invitation from the system to return to the double dungeon that changed his life is a welcome opportunity. He’ll have to put the visit on the back burner, though, because first things first―Jinwoo has a guild to establish!.",
+          "image_url": "https://m.media-amazon.com/images/I/81OYRZEQG7L._SL1500_.jpg"
+        },
+        {
+          "id": 9,
+          "volume": 9,
+          "chapters": "161-180",
+          "release_date": "2024-20-08",
+          "title": "The Final Chapter",
+          "description": "Jinwoo follows the call of the system and returns to the double dungeon that started it all in the hope of finally receiving some answers. What he doesn’t expect is to find his toughest opponent yet! Meanwhile, an S-rank gate looms over Tokyo, and after the loss of their strongest hunters, Japan turns to outside help―but with a worldwide increase in magic beast activity, only one S-rank hunter accepts their offer…Will that be enough to stop the magic beasts before they lay waste to Japan and beyond?",
+          "image_url": "https://m.media-amazon.com/images/I/91-juYmiUrL._SL1500_.jpg"
+        },
+        {
+          "id": 10,
+          "volume": 10,
+          "chapters": "181-200",
+          "release_date": "2020-06-03",
+          "title": "Unknown",
+          "description": "Unknown",
+          "image_url": "https://static.wikia.nocookie.net/solo-leveling/images/f/f6/Solo_Leveling_Webtoon_Volume_10_Korean_Cover.jpg/revision/latest/scale-to-width-down/1000?cb=20240429134338"
+        },
+        {
+          "id": 11,
+          "volume": 11,
+          "chapters": "201-220",
+          "release_date": "2020-09-02",
+          "title": "Unknown",
+          "description": "Unknown",
+          "image_url": "https://static.wikia.nocookie.net/solo-leveling/images/9/97/Solo_Leveling_Webtoon_Volume_11_Korean_Cover.jpg/revision/latest?cb=20240718070941"
+        }
+      ]
     },
     {
-      "id": 2,
-      "volume": 2,
-      "chapters": "21-40",
-      "release_date": "2018-06-03",
-      "title": "E-Rank Hunter",
-      "description": "Jin-Woo begins his journey as a stronger hunter after gaining the ability to level up, but the road is filled with dangerous dungeons and treacherous monsters.",
-      "image_url": "https://m.media-amazon.com/images/I/81ZAC67DE1S._SL1500_.jpg"
+      "title": "Blue Lock",
+      "author": "Muneyuki Kaneshiro",
+      "illustrator": "Yusuke Nomura",
+      "status": "Ongoing",
+      "volumes": [
+        {
+          "id": 1,
+          "volume": 1,
+          "chapters": "1-10",
+          "release_date": "2018-08-01",
+          "title": "The Awakened Ego",
+          "description": "Yoichi Isagi is recruited into the Blue Lock project, where Japan’s best soccer players fight for a spot on the national team.",
+          "image_url": "https://m.media-amazon.com/images/I/71Kxnxc7+9L._SL1000_.jpg"
+        },
+        {
+          "id": 2,
+          "volume": 2,
+          "chapters": "11-20",
+          "release_date": "2018-11-01",
+          "title": "The Second Selection",
+          "description": "The players must now survive the second selection round, where the stakes get higher, and Yoichi’s determination to become the best striker is tested.",
+          "image_url": "https://m.media-amazon.com/images/I/71dXJd5m1oL._SL1000_.jpg"
+        }
+      ]
     },
     {
-      "id": 3,
-      "volume": 3,
-      "chapters": "41-60",
-      "release_date": "2018-09-05",
-      "title": "The Mysterious Double Dungeon",
-      "description": "Jin-Woo discovers a terrifying secret dungeon that tests his abilities to the limit, as he faces challenges unlike any he's encountered before.",
-      "image_url": "https://m.media-amazon.com/images/I/71goH8p2ENL._SL1500_.jpg"
+      "title": "The Promised Neverland",
+      "author": "Kaiu Shirai",
+      "illustrator": "Posuka Demizu",
+      "status": "Season 2 Completed",
+      "volumes": [
+        {
+          "id": 1,
+          "volume": 1,
+          "chapters": "1-20",
+          "release_date": "2018-08-01",
+          "title": "The Awakened Ego",
+          "description": "Yoichi Isagi is recruited into the Blue Lock project, where Japan’s best soccer players fight for a spot on the national team.",
+          "image_url": "https://m.media-amazon.com/images/I/71Kxnxc7+9L._SL1000_.jpg"
+        },
+        {
+          "id": 2,
+          "volume": 2,
+          "chapters": "21-40",
+          "release_date": "2018-11-01",
+          "title": "The Second Selection",
+          "description": "The players must now survive the second selection round, where the stakes get higher, and Yoichi’s determination to become the best striker is tested.",
+          "image_url": "https://m.media-amazon.com/images/I/71dXJd5m1oL._SL1000_.jpg"
+        }
+      ]
     },
     {
-      "id": 4,
-      "volume": 4,
-      "chapters": "61-80",
-      "release_date": "2018-12-02",
-      "title": "The Quest System",
-      "description": "With the help of his new leveling system, Jin-Woo takes on powerful enemies and begins to reveal the true nature of his powers.",
-      "image_url": "https://m.media-amazon.com/images/I/81shyf5cV9L._SL1500_.jpg"
-    },
-    {
-      "id": 5,
-      "volume": 5,
-      "chapters": "81-100",
-      "release_date": "2019-03-06",
-      "title": "A New Hunter",
-      "description": "As Jin-Woo's strength continues to grow, the world starts to take notice, but with greater power comes greater threats.",
-      "image_url": "https://m.media-amazon.com/images/I/81eln1SzG7L._SL1500_.jpg"
-    },
-    {
-      "id": 6,
-      "volume": 6,
-      "chapters": "101-120",
-      "release_date": "2023-21-03",
-      "title": "The Outerhaven",
-      "description": "Jinwoo continues to progress rapidly through the Demon’s 6 Castle, climbing toward the top floor with the help of a demon noble who has agreed to escort the intruder if it means not having to fight him herself! Preoccupied with his personal quest, Jinwoo is unaware of the escalating threat outside the dungeon. The ant magic beasts that laid waste to Jeju Island are looking to relocate, and if they reach the mainland, all of Korea could fall. Will the combined S-ranks of Japan and Korea be enough to quell the swarm―and will Jinwoo be joining them?!.",
-      "image_url": "https://m.media-amazon.com/images/I/81v0cDv9IfL._SL1500_.jpg"
-    },
-    {
-      "id": 7,
-      "volume": 7,
-      "chapters": "121-140",
-      "release_date": "2023-22-08",
-      "title": "The Ultimate Hunter",
-      "description": "The joint expedition between South Korea and Japan to the ant-infested Jeju Island is well underway, and the Korean team has successfully located the queen. Taking her out should finally spell the long-awaited closing of the S-rank gate. But little do they know that wings aren’t the only mutation the latest generation of ants has gone through― and having made short work of the Japanese hunters, the queen’s strongest soldier is now headed straight for them!",
-      "image_url": "https://m.media-amazon.com/images/I/51sgPH9I1oL._SY445_SX342_.jpg"
-    },
-    {
-      "id": 8,
-      "volume": 8,
-      "chapters": "141-160",
-      "release_date": "2024-23-01",
-      "title": "The Final Test",
-      "description": "After his victory on Jeju Island, the top guilds are all clamoring to recruit Jinwoo Sung, the strongest S-rank hunter and the hero of Korea―a far cry from the hapless E-rank hunter he used to be. As exciting as each new development is, however, Jinwoo’s eager to finally get some answers, so an invitation from the system to return to the double dungeon that changed his life is a welcome opportunity. He’ll have to put the visit on the back burner, though, because first things first―Jinwoo has a guild to establish!.",
-      "image_url": "https://m.media-amazon.com/images/I/81OYRZEQG7L._SL1500_.jpg"
-    },
-    {
-      "id": 9,
-      "volume": 9,
-      "chapters": "161-180",
-      "release_date": "2024-20-08",
-      "title": "The Final Chapter",
-      "description": "Jinwoo follows the call of the system and returns to the double dungeon that started it all in the hope of finally receiving some answers. What he doesn’t expect is to find his toughest opponent yet! Meanwhile, an S-rank gate looms over Tokyo, and after the loss of their strongest hunters, Japan turns to outside help―but with a worldwide increase in magic beast activity, only one S-rank hunter accepts their offer…Will that be enough to stop the magic beasts before they lay waste to Japan and beyond?",
-      "image_url": "https://m.media-amazon.com/images/I/91-juYmiUrL._SL1500_.jpg"
-    },
-    {
-      "id": 10,
-      "volume": 10,
-      "chapters": "181-200",
-      "release_date": "2020-06-03",
-      "title": "Unknown",
-      "description": "Unknown",
-      "image_url": "https://static.wikia.nocookie.net/solo-leveling/images/f/f6/Solo_Leveling_Webtoon_Volume_10_Korean_Cover.jpg/revision/latest/scale-to-width-down/1000?cb=20240429134338"
-    },
-    {
-      "id": 11,
-      "volume": 11,
-      "chapters": "201-220",
-      "release_date": "2020-09-02",
-      "title": "Unknown",
-      "description": "Unknown",
-      "image_url": "https://static.wikia.nocookie.net/solo-leveling/images/9/97/Solo_Leveling_Webtoon_Volume_11_Korean_Cover.jpg/revision/latest?cb=20240718070941"
+      "title": "Haikyuu",
+      "author": "Haruichi Furudate",
+      "illustrator": "Haruichi Furudate",
+      "status": "Season 4 Completed",
+      "volumes": [
+        {
+          "id": 1,
+          "volume": 1,
+          "chapters": "1-20",
+          "release_date": "2018-08-01",
+          "title": "The Awakened Ego",
+          "description": "Yoichi Isagi is recruited into the Blue Lock project, where Japan’s best soccer players fight for a spot on the national team.",
+          "image_url": "https://m.media-amazon.com/images/I/71Kxnxc7+9L._SL1000_.jpg"
+        },
+        {
+          "id": 2,
+          "volume": 2,
+          "chapters": "21-40",
+          "release_date": "2018-11-01",
+          "title": "The Second Selection",
+          "description": "The players must now survive the second selection round, where the stakes get higher, and Yoichi’s determination to become the best striker is tested.",
+          "image_url": "https://m.media-amazon.com/images/I/71dXJd5m1oL._SL1000_.jpg"
+        }
+      ]
     }
   ]
 }
