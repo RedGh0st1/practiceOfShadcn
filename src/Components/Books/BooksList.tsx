@@ -8,14 +8,6 @@ import {
   CardContent,
 } from "@/Components/ui/card";
 
-interface Book {
-  id: number;
-  title: string;
-  author: string;
-  illustrator: string;
-  status: string;
-  volumes: Volumes[];
-}
 interface Volume {
   id: number;
   volume: number;
